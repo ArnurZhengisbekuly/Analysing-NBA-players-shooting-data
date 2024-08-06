@@ -1,0 +1,1 @@
+In this project, we examine the shooting statistics of four professional NBA players during the 2021 NBA Playoffs. The dataset, sourced from NBA-website, provides a comprehensive overview of the shots taken by these players, allowing us to examine various aspects of their shooting performance and on-court preferences.
